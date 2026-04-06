@@ -1,0 +1,25 @@
+pandas
+
+numpy
+
+requests
+
+scikit-learn (sklearn)
+
+xgboost
+
+joblib
+
+osmnx
+
+streamlit
+
+folium
+
+streamlit-folium
+
+plotly.express
+
+datetime
+
+zoneinfo
