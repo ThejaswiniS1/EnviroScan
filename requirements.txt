@@ -18,8 +18,3 @@ folium
 
 streamlit-folium
 
-plotly.express
-
-datetime
-
-zoneinfo
