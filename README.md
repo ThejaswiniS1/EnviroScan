@@ -17,6 +17,7 @@ The system integrates multiple data sources including:
 - Geospatial infrastructure features
 
 Using this integrated dataset, the system predicts pollution sources and enables accurate pollution source prediction, supporting decision-making for environmental monitoring and urban planning.
+
 ---
 Module 1: Data Collection from APIs and Location Databases
 
