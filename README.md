@@ -18,17 +18,6 @@ The system integrates multiple data sources including:
 
 Using this integrated dataset, the system predicts pollution sources and enables accurate pollution source prediction, supporting decision-making for environmental monitoring and urban planning.
 
----
-
-Milestone 1 (Week 1–2)
-
-This milestone includes:
-
-- Module 1 – Data Collection
-- Module 2 – Data Cleaning and Feature Engineering
-
----
-
 Module 1: Data Collection from APIs and Location Databases
 
 Objective:
@@ -161,18 +150,6 @@ All datasets are merged into a single feature-rich DataFrame containing:
 - Spatial features
 - Temporal features
 ---
-
-Milestone 2 (Week 3–4)
-
-Milestone 2 focuses on pollution source labeling and machine learning model development.
-
-Modules included:
-
-- Module 3 – Source Labeling and Simulation
-- Module 4 – Model Training and Source Prediction
-
----
-
 Module 3: Source Labeling and Simulation
 
 Objective:
@@ -324,15 +301,6 @@ Output:
 These components are integrated into the Streamlit dashboard for real-time pollution source prediction.
 
 ---
-Milestone 3 (Week 5–6)
-
-Modules included:
-
-- Module 5 – Geospatial Mapping and Heatmap Visualization
-- Module 6 – Interactive Dashboard and Real-Time Monitoring
-
----
-
 Module 5: Geospatial Mapping and Heatmap Visualization
 
 Objective:
